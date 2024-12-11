@@ -1,0 +1,20 @@
+[
+    {
+        "Nom": "Nadia",
+        "Prenom": "Salmi",
+        "Age": "20",
+        "Note": "15"
+    },
+    {
+        "Nom": "Jalal",
+        "Prenom": "Hafidi",
+        "Age": "22",
+        "Note": "18"
+    },
+    {
+        "Nom": "Sliani",
+        "Prenom": "Nabil",
+        "Age": "21",
+        "Note": "12"
+    }
+]
