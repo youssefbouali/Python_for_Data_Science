@@ -1,2 +1,2 @@
-# Python_advanced
-Python_advanced
+# Python_for_Data_Science
+Python_for_Data_Science
